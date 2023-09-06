@@ -7,7 +7,6 @@ namespace xjct
     public class ConfigureExcelApplication
     {
         static private Application _xlApplication = null;
-
         static OpenExcelWorkBook openExcelWorkBook;
 
         /// <summary>
